@@ -1,5 +1,11 @@
 SENTIMENT ANALYSIS USING PYTHON AND NLTK.
--> The Sentiment Analysis project using NLTK and Python is designed to analyze and determine the sentiment of textual data. The main objective is to classify text     as having a positive, negative, or neutral sentiment. Here’s a brief overview of the project:
+-> The Sentiment Analysis project using NLTK and Python is designed to analyze and determine the sentiment of textual data. The main objective is to classify text as having a positive, negative, or neutral sentiment. Here’s a brief overview of the project:
+
+
+
+
+![99134Flowchart_NB](https://github.com/user-attachments/assets/1795dc6f-2265-4267-9be2-ffbf1c7d4967)
+
 
 -> Project Purpose
     Sentiment analysis is widely used in various applications, such as understanding customer feedback, analyzing social media posts, or gauging public opinion on      a topic. This project focuses on implementing sentiment analysis using Python, leveraging the Natural Language Toolkit (NLTK) for text processing.
@@ -14,6 +20,9 @@ Sentiment Classification:
 1. Lexicon-Based Approach: The project may use pre-built sentiment lexicons (dictionaries of words labeled with their sentiment) to score the text. Positive words 
    add to the positive sentiment score, and negative words add to the negative score.
 2. Machine Learning Models: Alternatively, or in addition, machine learning models can be trained on labeled datasets to predict the sentiment of new, unseen text.
+
+   
+![sentiment analysis](https://github.com/user-attachments/assets/8b75f2c6-59ad-47b9-ae80-d5e7c4b761d0)
 
 -> Visualization:
 1. The results of the sentiment analysis are visualized using charts or graphs. For example, a bar chart may show the distribution of positive, negative, and          neutral sentiments across a dataset.
